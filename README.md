@@ -30,7 +30,9 @@ qub can mediate both object and arrayaccess magic with comparable performance
 ## Transformations
 
 Ask - requests state information from mediator
+
 Tell - instructs mediator to update it's internal state
+
 Translate - requests translated information. should always result in identical output given the same arguments
 
 ## Usage
