@@ -8,8 +8,8 @@ namespace qub {
         protected $driver;
         
         /**
-         * List of state results by ask and translate transformations
-         * @var array | \ArrayObject
+         * List of state results from ask and translate transformations
+         * @var \qub\State
          */
         protected $state;
         
