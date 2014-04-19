@@ -81,8 +81,8 @@ $name = $user->getName();
 var_dump($name); // returns "Bob"
 ```
 
-Most patterns can be addressed using qub, for example the view pattern commonly found in Model-View-Controller
-This example relies on the TRANSLATE transformation as view rendering should be identical given the same input
+Most patterns can be addressed using qub, for example the view pattern commonly found in Model-View-Controller. 
+This example relies on the TRANSLATE transformation for view rendering and should be identical given the same input
 ```php
 <?php
 class UserView {
