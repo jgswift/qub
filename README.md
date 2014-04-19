@@ -1,6 +1,6 @@
 qub
 ====
-PHP 5.5+ magic mediator and native state transformation utility
+PHP 5.5+ magic mediator and native state transformation utility 
 
 [![Build Status](https://travis-ci.org/jgswift/qub.png?branch=master)](https://travis-ci.org/jgswift/qub)
 
