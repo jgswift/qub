@@ -3,6 +3,7 @@ qub
 PHP 5.5+ magic mediator and native state transformation utility 
 
 [![Build Status](https://travis-ci.org/jgswift/qub.png?branch=master)](https://travis-ci.org/jgswift/qub)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jgswift/qub/badges/quality-score.png?s=6ee3097395adeca75c6a68b0940d86dcafd5d791)](https://scrutinizer-ci.com/g/jgswift/qub/)
 
 ## Installation
 
